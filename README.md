@@ -1,6 +1,6 @@
 # Catgirl based on Qwen3
 
-<script src="https://gist.github.com/moeleak/7636b5f12f82bb84debc24ced23d24b4.js"></script>
+[Open in Colab](https://colab.research.google.com/github/moeleak/catgirl/blob/main/catgirl.ipynb)
 
 - 数据集获取程序: dataset.py
 - catgirl.ipynb 调用 unsloth 进行大语言模型微调
